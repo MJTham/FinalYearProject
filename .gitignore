@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+myenv/
+.venv/
+
+# OS-specific
+.DS_Store
+
+# Data
+data/VOC/
+data/new_discoveries/
+data/VOC_T1/
+data/VOC_T2/
+data/VOC_T2_Continual/
+temp/
+
+# Test artifacts
+temp_test_data/
+
+# Temporary files
+*.tmp
+.tmp.driveupload/
+.tmp.drivedownload/
+models/teacher.pt
+diagram.html
+
+# WIKI
+WIKI/

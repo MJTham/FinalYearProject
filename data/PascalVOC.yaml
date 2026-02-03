@@ -1,0 +1,34 @@
+# PascalVOC.yaml (Corrected)
+
+# Use the full, absolute path to your main dataset directory
+path: /Users/mjtham/Documents/Yolov8ContinualLearning/data/VOC
+
+# Subdirectories for images (these are now relative to the 'path' above)
+train: train/images
+val: valid/images
+
+# Number of classes
+nc: 20
+
+# Class names
+names:
+  - aeroplane
+  - bicycle
+  - bird
+  - boat
+  - bottle
+  - bus
+  - car
+  - cat
+  - chair
+  - cow
+  - diningtable
+  - dog
+  - horse
+  - motorbike
+  - person
+  - pottedplant
+  - sheep
+  - sofa
+  - train
+  - tvmonitor

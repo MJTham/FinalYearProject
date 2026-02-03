@@ -1,0 +1,10 @@
+torch
+ultralytics
+openai-clip
+opencv-python
+faiss-cpu
+streamlit
+transformers
+rembg
+onnxruntime
+matplotlib
